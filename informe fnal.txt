@@ -1,0 +1,87 @@
+1. Al analisar los ingresos por cada tienda arrojo que la Tienda 1 con $1 150 880 400.0 es la que presenta una mayor cantidad mientras 
+la Tienda 4 fue la de mas bajos  con $1 038 375 700.0. entre todas ingresaron $4 403 619 200.0. (6.1)
+Ingreso de Tienda 1: $1150880400.0
+Ingreso de Tienda 2: $1116343500.0
+Ingreso de Tienda 3: $1098019600.0
+Ingreso de Tienda 4: $1038375700.0
+Ingreso Total de las Tiendas: $4403619200.0
+
+2. Ventas por categoría.
+La venta por categoria se comporto de la siguiente forma (6.3)
+-las Categorias Electrionico y Electrodomesticos fueron las de mayor ingreso y mayores ventas entre ambas 
+en todas las tiendas. 
+-El mayor promedio de ventas lo obtuvo igualmente la  Tienda 1. y la Tienda 4 vuelve a sobresalir como la de menor promedio.
+
+3. Calificación promedio de la tienda.(6.2)
+En cuanto a la calificacion promedio por tienda arrojó que la Tienda 3 es la que tiene una mejor calificacion.
+entre tanto la Tienda 1 fue de peores califcaciones.
+
+4. Productos más y menos vendidos.
+
+Los productos mas vendidos en las Tiendas fueron los siguientes
+T   Producto                        Cantidad              Precio
+1.  Armario                          60                  $29 462 300.0
+2.  Iniciando en programación        65                  $ 3 127 800.0
+3.  Kit de bancas                    57                  $16 699 800.0
+4.  Cama box                         62                  $32 946 300.0
+
+Los productos menos vendidos en las Tiendas fueron los siguientes
+T   Producto                        Cantidad              Precio
+1.  Auriculares con micrófono        33                  $ 4 730 800.0 
+2.  Juego de mesa                    32                  $ 5 811 900.0
+3.  Bloques de construcción          35                  $ 1 237 200.0  
+4.  Guitarra eléctrica               33                  $25 823 100.0  
+
+Los productos con mayor ganancia en las las Tiendas
+                    
+T    Producto           Precio          
+1. TV LED UHD 4K      $142 150 200.0
+2. Iphone 15          $113 225 800.0
+3. Refrigerador        $99 889 700.0
+4. Iphone 15           $96 697 500.0
+
+Los producto con menor ganancia en las Tiendas 
+                     
+Producto             Precio        
+Cuerda para saltar  $652 800.0
+Cubo mágico 8x8     $643 600.0                 
+Cubo mágico 8x8     $640 400.0
+Cuerda para saltar  $704 800.0              
+
+Si bien la tienda 2 fue la que vendio la mayor cantidad de productos con 65 no genero los mayores ingresos. Los productos que generaron las mayores ganancias
+pertenecieron a la tienda 1 y 2 con un monto total de $142 150 200.0 y $113 225 800.0 respectivamente.
+
+5. Costo Envío promedio por tienda
+Envío promedio por tienda:
+Tienda 1: $26018.61
+Tienda 2: $25216.24
+Tienda 3: $24805.68
+Tienda 4: $23459.46
+La tienda 4 mostró el promedio mas bajo del costo de envio .
+
+Concluciones
+Es cierto que la tienda 4 tiene mejores valoraciones y menor costo promedio en los envios pero es la recomendada para su venta ya que posee los ingresos mas bajos de 
+totales y por categorias, aunque venda una mayor catidad de prouctos genera menos ganancias en comparacion con las demas.
+
+Recomendacion
+Realizar un analisis mas profundo posterior a la venta de la Tienda 4 con el objetivo de mejorar la atencion al cliente en la Tienda 1 y rebajar sus costes de envio,
+En la tienda 2 es necesario rebajar los costos de envio y a t6ienda 3 aunq tiene buenas valoraciones de los clientes e necesario rebajar los costes de envio y mejorar 
+un poco los ingresos totales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

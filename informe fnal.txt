@@ -6,31 +6,31 @@ Ingreso de Tienda 3: $1098019600.0
 Ingreso de Tienda 4: $1038375700.0
 Ingreso Total de las Tiendas: $4403619200.0
 
-2. Ventas por categorÌa.
+2. Ventas por categor√≠a.
 La venta por categoria se comporto de la siguiente forma (6.3)
 -las Categorias Electrionico y Electrodomesticos fueron las de mayor ingreso y mayores ventas entre ambas 
 en todas las tiendas. 
 -El mayor promedio de ventas lo obtuvo igualmente la  Tienda 1. y la Tienda 4 vuelve a sobresalir como la de menor promedio.
 
-3. CalificaciÛn promedio de la tienda.(6.2)
-En cuanto a la calificacion promedio por tienda arrojÛ que la Tienda 3 es la que tiene una mejor calificacion.
+3. Calificaci√≥n promedio de la tienda.(6.2)
+En cuanto a la calificacion promedio por tienda arroj√≥ que la Tienda 3 es la que tiene una mejor calificacion.
 entre tanto la Tienda 1 fue de peores califcaciones.
 
-4. Productos m·s y menos vendidos.
+4. Productos m√°s y menos vendidos.
 
 Los productos mas vendidos en las Tiendas fueron los siguientes
 T   Producto                        Cantidad              Precio
 1.  Armario                          60                  $29 462 300.0
-2.  Iniciando en programaciÛn        65                  $ 3 127 800.0
+2.  Iniciando en programaci√≥n        65                  $ 3 127 800.0
 3.  Kit de bancas                    57                  $16 699 800.0
 4.  Cama box                         62                  $32 946 300.0
 
 Los productos menos vendidos en las Tiendas fueron los siguientes
 T   Producto                        Cantidad              Precio
-1.  Auriculares con micrÛfono        33                  $ 4 730 800.0 
+1.  Auriculares con micr√≥fono        33                  $ 4 730 800.0 
 2.  Juego de mesa                    32                  $ 5 811 900.0
-3.  Bloques de construcciÛn          35                  $ 1 237 200.0  
-4.  Guitarra elÈctrica               33                  $25 823 100.0  
+3.  Bloques de construcci√≥n          35                  $ 1 237 200.0  
+4.  Guitarra el√©ctrica               33                  $25 823 100.0  
 
 Los productos con mayor ganancia en las las Tiendas
                     
@@ -44,20 +44,20 @@ Los producto con menor ganancia en las Tiendas
                      
 Producto             Precio        
 Cuerda para saltar  $652 800.0
-Cubo m·gico 8x8     $643 600.0                 
-Cubo m·gico 8x8     $640 400.0
+Cubo m√°gico 8x8     $643 600.0                 
+Cubo m√°gico 8x8     $640 400.0
 Cuerda para saltar  $704 800.0              
 
 Si bien la tienda 2 fue la que vendio la mayor cantidad de productos con 65 no genero los mayores ingresos. Los productos que generaron las mayores ganancias
 pertenecieron a la tienda 1 y 2 con un monto total de $142 150 200.0 y $113 225 800.0 respectivamente.
 
-5. Costo EnvÌo promedio por tienda
-EnvÌo promedio por tienda:
+5. Costo Env√≠o promedio por tienda
+Env√≠o promedio por tienda:
 Tienda 1: $26018.61
 Tienda 2: $25216.24
 Tienda 3: $24805.68
 Tienda 4: $23459.46
-La tienda 4 mostrÛ el promedio mas bajo del costo de envio .
+La tienda 4 mostr√≥ el promedio mas bajo del costo de envio .
 
 Concluciones
 Es cierto que la tienda 4 tiene mejores valoraciones y menor costo promedio en los envios pero es la recomendada para su venta ya que posee los ingresos mas bajos de 
@@ -65,7 +65,7 @@ totales y por categorias, aunque venda una mayor catidad de prouctos genera meno
 
 Recomendacion
 Realizar un analisis mas profundo posterior a la venta de la Tienda 4 con el objetivo de mejorar la atencion al cliente en la Tienda 1 y rebajar sus costes de envio,
-En la tienda 2 es necesario rebajar los costos de envio y a t6ienda 3 aunq tiene buenas valoraciones de los clientes e necesario rebajar los costes de envio y mejorar 
+En la tienda 2 es necesario rebajar los costos de envio y a tienda 3 aunq tiene buenas valoraciones de los clientes e necesario rebajar los costes de envio y mejorar 
 un poco los ingresos totales.
 
 

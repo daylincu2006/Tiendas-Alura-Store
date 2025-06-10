@@ -1,5 +1,6 @@
-# Tiendas-Alura-Store
+Tiendas-Alura-Store
 Análisis del Desempeño de Tiendas Alura Store
+
 Descripción del Proyecto
 Este proyecto tiene como objetivo evaluar el desempeño de las cuatro tiendas de Alura Store para determinar cuál presenta menor rentabilidad y, por lo tanto, sería la mejor opción para vender y reinvertir en un nuevo negocio. El análisis se basa en diferentes métricas, incluyendo facturación total, categorías más vendidas, evaluación promedio de los clientes, productos más y menos vendidos, y costo promedio de envío.
 
